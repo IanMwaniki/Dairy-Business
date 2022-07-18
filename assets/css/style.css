@@ -19,7 +19,7 @@ nav{
 }
 label.logo{
     color: black;
-    font-size: 30px;
+    font-size: 40px;
     line-height: 80px;
     margin-left: 100px;
     font-weight: bold;
@@ -81,5 +81,7 @@ nav ul li a:hover{
     color: grey;
 }
 .btn{
-    
+    text-align: center;
+    display: inline-block;
+    vertical-align: middle;
 }
