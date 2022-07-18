@@ -91,3 +91,6 @@ nav ul li a:hover{
     line-height: 1.5;
     transition: cubic-bezier(0.755, 0.05, 0.855, 0.06);
 }*/
+.nav-toggler{
+    border: none !important;
+}
