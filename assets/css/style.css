@@ -10,7 +10,7 @@ body{
     
 }
 nav{
-    background-color: aliceblue;
+    background-color: antiquewhite;
     height: 80px;
     width: 100%;
     line-height: 80px;
@@ -61,8 +61,9 @@ li button{
     margin-top: 50px;
 }
 .cow{
-    margin-top: 40px;
+    margin-top: 30px;
     box-shadow: 1.0em;
+    margin-bottom: 30px;
 }
 .text h1{
     color:#2e313f !important;
@@ -88,7 +89,7 @@ li button{
     box-sizing: border-box;
     border-radius: 20px;
     padding: 10px;
-    padding-top: 10px;
+    margin-top: 10px;
 }
 .nav-toggler{
     border: none !important;
@@ -100,7 +101,7 @@ color: maroon !important;
  }
  .management{
     text-align: center;
-    margin-top: 100px;
+    margin-top: 40px;
  }
  .management h2{
     font-family:sans-serif ;
@@ -115,6 +116,7 @@ color: maroon !important;
 .tech{
     text-align: center;
     margin-top: 20px;
+    margin-bottom: 30px;
     font-size: 24px;
     font-family: sans-serif;
 }
@@ -198,6 +200,7 @@ border: 0;
 .row-down{
    font-size: 20px;
    padding-top: 10px;
+   justify-content: space-around;
 }
 .row-down button{
     background-color: navy;
@@ -207,5 +210,37 @@ border: 0;
     border-radius: 20px;
     padding: 10px;
     margin-left: 30px;
-    padding-top: 10px;
+    margin-top: 10px;
+}
+/*---Why Section---*/
+.why{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    background-color: aliceblue;
+}
+.why h2{
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+    color: #2e313f;
+}
+.why h5{
+    text-align: center;
+    font-family: sans-serif;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: #2e313f;
+    font-weight: bold;
+    font-size: 24px;
+}
+.why p{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 24px;
+    font-family: sans-serif;
+    color: grey;
+}
+.manage{
+    background-color: aliceblue;
 }
