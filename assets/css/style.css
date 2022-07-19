@@ -129,4 +129,10 @@ border: 0;
 /*----Features Section----*/
 #features{
     background-image: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)),url(https://jamesalleninsurance.com/wp-content/uploads/2021/06/dairycows.jpg);
+    background-size: cover;
+    background-position: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    color: white !important;
+    background-attachment: fixed;
 }
