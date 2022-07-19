@@ -159,3 +159,10 @@ border: 0;
     box-sizing: border-box;
     background-color: aliceblue;
 }
+.row-features h5{
+    text-align: start;
+    color: #2e313f !important;
+    margin-bottom: 10px;
+    font-size: 24px;
+    font-weight: 700;
+}
