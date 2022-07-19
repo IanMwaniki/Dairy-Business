@@ -249,3 +249,19 @@ border: 0;
     padding: 0.975rem 0.85rem;
     height: calc(2.98em + 0.75rem + 2px);
 }
+.start{
+    margin-top: 1rem !important;
+    padding-left: 15px;
+    padding-right: 15px;
+    position: relative;
+    margin-bottom: 1em;
+}
+.btn-solid-btn{
+    background-color: navy;
+    color: #ebebeb;
+    font-family: sans-serif;
+    box-sizing: border-box;
+    border-radius: 50px;
+    padding: 20px 20px 20px 20px ;
+    font-weight: 400;
+}
