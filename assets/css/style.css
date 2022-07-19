@@ -110,3 +110,7 @@ color: maroon !important;
     color: #2e313f !important;
     font-weight: 700;
 }
+.management span{
+    font-weight: 400;
+    font-size: 2rem;
+}
