@@ -244,3 +244,8 @@ border: 0;
 .manage{
     background-color: aliceblue;
 }
+.form-control{
+    border-color: #ebebeb;
+    padding: 0.975rem 0.85rem;
+    height: calc(2.98em + 0.75rem + 2px);
+}
