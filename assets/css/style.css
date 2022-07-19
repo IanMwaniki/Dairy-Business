@@ -166,3 +166,18 @@ border: 0;
     font-size: 24px;
     font-weight: 700;
 }
+.row-right{
+    font-family: sans-serif;
+    font-weight: 700;
+    color:grey;
+    box-sizing: border-box;
+    background-color: aliceblue;
+    padding-top: 10px;
+}
+.row-right h5{
+    text-align: start;
+    color: #2e313f !important;
+    margin-bottom: 10px;
+    font-size: 24px;
+    font-weight: 700;
+}
