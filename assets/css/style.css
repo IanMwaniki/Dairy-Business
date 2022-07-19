@@ -136,3 +136,11 @@ border: 0;
     color: white !important;
     background-attachment: fixed;
 }
+#features h1{
+      text-align: center;
+      color: white !important;
+      padding-bottom: 10px; 
+      font-weight: 700;
+      font-family: sans-serif;
+      font-size: 24px;
+}
