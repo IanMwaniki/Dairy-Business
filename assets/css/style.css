@@ -114,3 +114,10 @@ color: maroon !important;
     font-weight: 400;
     font-size: 2rem;
 }
+.tech{
+    text-align: center;
+    justify-content: space-around;
+}
+.tech p{font-weight: 500;
+    font-size: 26px;
+}
