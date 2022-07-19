@@ -265,3 +265,18 @@ border: 0;
     padding: 20px 20px 20px 20px ;
     font-weight: 400;
 }
+.dairy{
+    display: flex;
+    justify-content: space-around;
+}
+.work{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.work h2{
+    font-size: 34px;
+    font-family: sans-serif;
+    color: #2e313f;
+    font-weight: bold;
+}
