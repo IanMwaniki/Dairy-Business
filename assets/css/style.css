@@ -193,3 +193,7 @@ border: 0;
     font-size: 24px;
     font-weight: 700;
 }
+.row{
+    display: flex;
+    justify-content: space-around;
+}
