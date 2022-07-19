@@ -81,17 +81,15 @@ li button{
     font: inherit;
     color: grey;
 }
-/*a.btn{
-    text-align: center;
-    display: inline-block;
-    vertical-align: middle;
-    user-select: none;
-    background-color: transparent;
-    border: 1px solid transparent;
-    font-size: 1em;
-    line-height: 1.5;
-    transition: cubic-bezier(0.755, 0.05, 0.855, 0.06);
-}*/
+.btn button{
+    background-color: maroon;
+    color: aliceblue;
+    box-shadow: none;
+    box-sizing: border-box;
+    border-radius: 20px;
+    padding: 10px;
+    padding-top: 10px;
+}
 .nav-toggler{
     border: none !important;
 }
@@ -199,4 +197,15 @@ border: 0;
 }
 .row-down{
    font-size: 20px;
+   padding-top: 10px;
+}
+.row-down button{
+    background-color: navy;
+    color: aliceblue;
+    box-shadow: none;
+    box-sizing: border-box;
+    border-radius: 20px;
+    padding: 10px;
+    margin-left: 30px;
+    padding-top: 10px;
 }
