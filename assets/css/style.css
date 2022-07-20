@@ -280,3 +280,19 @@ border: 0;
     color: #2e313f;
     font-weight: bold;
 }
+.aero{
+    width: 500px;
+    height: 500px; 
+    background-color: maroon;
+    margin-left: 250px;   
+}
+.form-group{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-right: 300px;
+}
+.start{
+    margin-top: 10px;
+    margin-bottom: 30px;
+    margin-left: 1000px;
+}
